@@ -1,11 +1,13 @@
 ---
-import Layout from '../../layouts/Layout.astro'
+import Layout from "../../layouts/Layout.astro";
+import ProvinceQuiz from "@/components/quiz/ProvinceQuiz";
 ---
 
 <Layout title="Provinces Quiz">
-    <main>
-        <h1>Provinces Quiz</h1>
-        <p>Test your knowledge of the provinces of Canada.</p>
-        <p>Coming soon...</p>
+    <main class="w-1/2 mx-auto flex flex-col gap-4">
+        <h1 class="text-3xl text-center font-semibold">
+            Kuis Provinsi Indonesia
+        </h1>
+        <ProvinceQuiz client:only="react" />
     </main>
 </Layout>

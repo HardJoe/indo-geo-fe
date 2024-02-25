@@ -1,0 +1,192 @@
+[
+    {
+        "nameID": "Aceh",
+        "nameEN": "Aceh",
+        "acronym": ""
+    },
+    {
+        "nameID": "Bali",
+        "nameEN": "Bali",
+        "acronym": ""
+    },
+    {
+        "nameID": "Banten",
+        "nameEN": "Banten",
+        "acronym": ""
+    },
+    {
+        "nameID": "Bengkulu",
+        "nameEN": "Bengkulu",
+        "acronym": ""
+    },
+    {
+        "nameID": "Daerah Istimewa Yogyakarta",
+        "nameEN": "Special Region of Yogyakarta",
+        "acronym": "DIY"
+    },
+    {
+        "nameID": "Daerah Khusus Ibukota Jakarta",
+        "nameEN": "Special Capital Region of Jakarta",
+        "acronym": "DKI Jakarta"
+    },
+    {
+        "nameID": "Gorontalo",
+        "nameEN": "Gorontalo",
+        "acronym": ""
+    },
+    {
+        "nameID": "Jambi",
+        "nameEN": "Jambi",
+        "acronym": ""
+    },
+    {
+        "nameID": "Jawa Barat",
+        "nameEN": "West Java",
+        "acronym": "Jabar"
+    },
+    {
+        "nameID": "Jawa Tengah",
+        "nameEN": "Central Java",
+        "acronym": "Jateng"
+    },
+    {
+        "nameID": "Jawa Timur",
+        "nameEN": "East Java",
+        "acronym": "Jatim"
+    },
+    {
+        "nameID": "Kalimantan Barat",
+        "nameEN": "West Kalimantan",
+        "acronym": "Kalbar"
+    },
+    {
+        "nameID": "Kalimantan Selatan",
+        "nameEN": "South Kalimantan",
+        "acronym": "Kalsel"
+    },
+    {
+        "nameID": "Kalimantan Tengah",
+        "nameEN": "Central Kalimantan",
+        "acronym": "Kalteng"
+    },
+    {
+        "nameID": "Kalimantan Timur",
+        "nameEN": "East Kalimantan",
+        "acronym": "Kaltim"
+    },
+    {
+        "nameID": "Kalimantan Utara",
+        "nameEN": "North Kalimantan",
+        "acronym": "Kaltara"
+    },
+    {
+        "nameID": "Kepulauan Bangka Belitung",
+        "nameEN": "Bangka Belitung Islands",
+        "acronym": "Babel"
+    },
+    {
+        "nameID": "Kepulauan Riau",
+        "nameEN": "Riau Islands",
+        "acronym": "Kepri"
+    },
+    {
+        "nameID": "Lampung",
+        "nameEN": "Lampung",
+        "acronym": ""
+    },
+    {
+        "nameID": "Maluku",
+        "nameEN": "Maluku",
+        "acronym": ""
+    },
+    {
+        "nameID": "Maluku Utara",
+        "nameEN": "North Maluku",
+        "acronym": "Malut"
+    },
+    {
+        "nameID": "Nusa Tenggara Barat",
+        "nameEN": "West Nusa Tenggara",
+        "acronym": "NTB"
+    },
+    {
+        "nameID": "Nusa Tenggara Timur",
+        "nameEN": "East Nusa Tenggara",
+        "acronym": "NTT"
+    },
+    {
+        "nameID": "Papua",
+        "nameEN": "Papua",
+        "acronym": ""
+    },
+    {
+        "nameID": "Papua Barat",
+        "nameEN": "West Papua",
+        "acronym": "Pabar"
+    },
+    {
+        "nameID": "Papua Barat Daya",
+        "nameEN": "Southwest Papua",
+        "acronym": "PBD"
+    },
+    {
+        "nameID": "Papua Pegunungan",
+        "nameEN": "Highland Papua",
+        "acronym": "Papeg"
+    },
+    {
+        "nameID": "Papua Selatan",
+        "nameEN": "South Papua",
+        "acronym": "Pasel"
+    },
+    {
+        "nameID": "Papua Tengah",
+        "nameEN": "Central Papua",
+        "acronym": "Papteng"
+    },
+    {
+        "nameID": "Riau",
+        "nameEN": "Riau",
+        "acronym": ""
+    },
+    {
+        "nameID": "Sulawesi Barat",
+        "nameEN": "West Sulawesi",
+        "acronym": "Sulbar"
+    },
+    {
+        "nameID": "Sulawesi Selatan",
+        "nameEN": "South Sulawesi",
+        "acronym": "Sulsel"
+    },
+    {
+        "nameID": "Sulawesi Tengah",
+        "nameEN": "Central Sulawesi",
+        "acronym": "Sulteng"
+    },
+    {
+        "nameID": "Sulawesi Tenggara",
+        "nameEN": "Southeast Sulawesi",
+        "acronym": "Sultra"
+    },
+    {
+        "nameID": "Sulawesi Utara",
+        "nameEN": "North Sulawesi",
+        "acronym": "Sulut"
+    },
+    {
+        "nameID": "Sumatera Barat",
+        "nameEN": "West Sumatra",
+        "acronym": "Sumbar"
+    },
+    {
+        "nameID": "Sumatera Selatan",
+        "nameEN": "South Sumatra",
+        "acronym": "Sumsel"
+    },
+    {
+        "nameID": "Sumatera Utara",
+        "nameEN": "North Sumatra",
+        "acronym": "Sumut"
+    }
+]
